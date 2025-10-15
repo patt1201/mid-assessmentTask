@@ -17,7 +17,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(135deg, rgba(0, 48, 135, 0.85) 0%, rgba(0, 82, 204, 0.75) 100%);
+  background: linear-gradient(135deg, rgba(46, 125, 50, 0.85) 0%, rgba(56, 142, 60, 0.75) 100%);
 }
 
 .courses-hero-content {
@@ -55,7 +55,7 @@
   font-size: 2.5rem;
   text-align: center;
   margin-bottom: 1rem;
-  color: #003087;
+  color: #2e7d32;
   font-weight: 700;
 }
 
@@ -79,9 +79,9 @@
 
 .filter-btn {
   padding: 0.8rem 1.5rem;
-  border: 2px solid #003087;
+  border: 2px solid #2e7d32;
   background: white;
-  color: #003087;
+  color: #2e7d32;
   border-radius: 50px;
   font-weight: 600;
   cursor: pointer;
@@ -90,15 +90,15 @@
 }
 
 .filter-btn:hover {
-  background: #003087;
+  background: #2e7d32;
   color: white;
   transform: translateY(-2px);
 }
 
 .filter-btn.active {
-  background: linear-gradient(135deg, #003087 0%, #0052cc 100%);
+  background: linear-gradient(135deg, #2e7d32 0%, #388e3c 100%);
   color: white;
-  box-shadow: 0 5px 15px rgba(0, 82, 204, 0.3);
+  box-shadow: 0 5px 15px rgba(46, 125, 50, 0.3);
 }
 
 .courses-grid {
@@ -132,7 +132,7 @@
 }
 
 .course-acronym {
-  color: #0052cc;
+  color: #2e7d32;
   font-size: 1.8rem;
   font-weight: 700;
   margin-bottom: 0.5rem;
@@ -167,7 +167,7 @@
 }
 
 .apply-btn {
-  background: linear-gradient(135deg, #003087 0%, #0052cc 100%);
+  background: linear-gradient(135deg, #2e7d32 0%, #388e3c 100%);
   color: white;
   padding: 0.6rem 1.5rem;
   border-radius: 25px;
@@ -179,12 +179,12 @@
 
 .apply-btn:hover {
   transform: scale(1.05);
-  box-shadow: 0 5px 15px rgba(0, 82, 204, 0.3);
+  box-shadow: 0 5px 15px rgba(46, 125, 50, 0.3);
 }
 
 .why-choose-section {
   padding: 5rem 0;
-  background: linear-gradient(135deg, #003087 0%, #0052cc 100%);
+  background: linear-gradient(135deg, #2e7d32 0%, #388e3c 100%);
   color: white;
 }
 
